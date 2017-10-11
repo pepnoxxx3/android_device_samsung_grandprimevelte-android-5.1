@@ -1,0 +1,2 @@
+# android_device_samsung_grandprimevelte-android-5.1
+android_device_samsung_grandprimevelte-android-5.1
